@@ -54,9 +54,9 @@
 ## 🔓 Open-Source GitHub Projects
 
 > [!TIP]
-> The open-source industrial robotics stack is thriving. Below are leading open repositories ordered by GitHub Star count (descending).
+> The open-source industrial robotics stack is thriving. Below are leading open repositories ordered by GitHub Stars_Count (descending).
 
-| Project & Repository | Stars | Description |
+| Project & Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[ROS 2 (Robot Operating System)](https://github.com/ros2/ros2)** | [![Stars](https://img.shields.io/github/stars/ros2/ros2?style=social&color=white)](https://github.com/ros2/ros2/stargazers) | Industry standard middleware framework for robot drivers, state estimation, and industrial control. |
 | **[Gazebo / Gazebo Sim](https://github.com/gazebosim/gz-sim)** | [![Stars](https://img.shields.io/github/stars/gazebosim/gz-sim?style=social&color=white)](https://github.com/gazebosim/gz-sim/stargazers) | High-fidelity 3D multi-robot physics simulation engine for virtual cell commissioning. |
